@@ -1,0 +1,7 @@
+
+    User-agent: *
+    Disallow: /admin
+    Disallow: /addp/
+
+    Sitemap: https://www.milovantomasevic.com/sitemap.xml
+    
